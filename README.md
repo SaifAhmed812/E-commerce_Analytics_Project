@@ -49,7 +49,7 @@ Analytics_Project/
 
 ---
 
-# 🤖 AI & Machine Learning Integration
+#  AI & Machine Learning Integration
 
 One of the standout features of this project is the integration of **predictive analytics** into the Power BI reporting workflow.
 
@@ -137,7 +137,7 @@ Analyzes customer demographics, engagement, and purchasing behavior.
 
 ---
 
-#📈 Campaign Overview
+# 📈 Campaign Overview
 
 Monitors campaign performance, advertising spend, and marketing effectiveness.
 
