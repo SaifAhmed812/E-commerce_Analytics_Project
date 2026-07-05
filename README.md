@@ -86,7 +86,7 @@ The predictive model enables marketing teams to identify high-intent customers, 
 
 # 📈 Dashboard Overview
 
-The dashboard consists of **three interactive report pages**.
+The dashboard consists of **3 interactive report pages**.
 
 ---
 
